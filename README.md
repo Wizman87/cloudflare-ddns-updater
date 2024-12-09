@@ -1,7 +1,7 @@
 # Cloudflare Dynamic DNS IP Updater
 <img alt="GitHub" src="https://img.shields.io/github/license/K0p1-Git/cloudflare-ddns-updater?color=black"> <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/K0p1-Git/cloudflare-ddns-updater/main"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/K0p1-Git/cloudflare-ddns-updater">
 
-This script is used to update Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH.
+This script is used to update Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Both IPv4 and IPv6 protocols supported! Written in pure BASH.
 
 ## Support Me
 [![Donate Via Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Jasonkkf)
@@ -31,6 +31,7 @@ This script is used with crontab. Specify the frequency of execution through cro
 macOS Mojave version 10.14.6 (x86_64) <br />
 AlmaLinux 9.3 (Linux kernel: 5.14.0 | x86_64) <br />
 Debian Bullseye 11 (Linux kernel: 6.1.28 | aarch64) <br />
+Debian Bookworm 12 (Linux kernel: 6.1.0 | x86_64) <br />
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
