@@ -3,13 +3,13 @@
 
 This script is used to update Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Both IPv4 and IPv6 protocols supported! Written in pure BASH.
 
-## Support Me
+## Support the Developer
 [![Donate Via Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Jasonkkf)
 
 ## Installation
 
 ```bash
-git clone https://github.com/K0p1-Git/cloudflare-ddns-updater.git
+git clone https://github.com/Wizman87/cloudflare-ddns-updater.git
 ```
 
 ## Usage
